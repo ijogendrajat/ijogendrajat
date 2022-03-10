@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter .
 - 💞️ I’m looking to collaborate on UZG19.
 - 📫 Mail: ijogendrajat@gmail.com
-- https://wakatime.com/badge/user/786053fd-da4e-44e1-bd2e-c77c1c7dfd79.svg
+- <a href="https://wakatime.com/@786053fd-da4e-44e1-bd2e-c77c1c7dfd79"><img src="https://wakatime.com/badge/user/786053fd-da4e-44e1-bd2e-c77c1c7dfd79.svg" alt="Total time coded since Mar 7 2022" /></a>
 
 <!---
 ijogendrajat/ijogendrajat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
